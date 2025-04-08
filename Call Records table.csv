@@ -1,0 +1,25 @@
+﻿id,phoneNumberId,callproviderID,customernumber,type,started,ended,milliseconds,cost(stt),cost(llm),cost(tts),cost(total),cost(twilio),cost(totals),transcript,ended reason,recording
+17bba342-428e-4340-a130-bc69644466a1,dd105112-c88d-407c-8139-11f1883c98db,CA15e17e904d7a00a6350c3d01930012e4,+919784306503,outboundPhoneCall,2025-04-08T06:45:07.114Z,2025-04-08T06:49:33.858Z,266744,0.0000,0.0000,0.0000,0.0000,0.0000,,"AI: Good day, I am Richard calling from Interior. I'm reaching out about your interest in our interior design services. Do you have a few minutes to discuss your project requirements?
+User: Yes. I can talk now.
+AI: Thank you for your time. To begin, could you share some details about the space you're planning to redesign? What do you envision for your project?
+User: Right. I want to re renovate my home.
+AI: That sounds wonderful. Could you tell me a bit more about your home? Are you looking to refresh specific areas like living room, bedrooms, or kitchen? Or are you planning a full home renovation? Also, do you have any particular style or theme in mind?
+User: I actually wondered, anyway, to my entire I think I really I'm more concerned.
+AI: I understand. It's important to feel confident and clear about your renovation goals. We can explore various options to ensure your home reflects your vision and lifestyle. Could you share with me the approximate square footage of your property? This information helps us understand the project scale and tailor our approach accordingly.
+User: I actually have a remote 2000 square feet.
+AI: Thank you for that information. A 2000 square feet space offers plenty of opportunities for a beautiful transformation. Next, to better understand the context of your project, could you tell me where your property is located? Just the neighborhood or district and city would be at this stage.
+User: My property is in Bangalore.
+AI: Thank you for sharing that. While our headquarters is in India, we do undertake projects in Bangalore with some adjustments for site visits. Project management. Now could you tell me about the budget you've allocated for your renovation? Our comprehensive services typically begin at minimum investment of our state for turnkey residential designs does this align with your budget?
+User: Yes. This is Frank from
+AI: Excellent. This budget range will allow us to create a truly distinctive space tailored to your preferences. Could you also share your project's time frame? Are you looking to commence within the next month, or are you planning for a later start date?
+User: I want to begin in July.
+AI: That works well with our current schedule. We can certainly accommodate a project beginning in July. Lastly, are you interested in our comprehensive turnkey solution where we manage everything from design to implementation? Or are you seeking specific design services?
+User: I won the entire 20
+AI: Our turnkey approach is designed to make the process effortless for you. We'll oversee everything from the initial concept to final styling. Based on our conversation, I believe our design team would be an excellent match for your project. I'd like to arrange a consultation with 1 of our senior designers. What date and time would work best for you? You'll receive a confirmation email with all the details.
+User: yes that would mean delete I want, uh, tomorrow, 3 PM.
+AI: Thank you for sharing your design ideas with me. I've booked your consultation with 1 of our senior designers for tomorrow at 3 PM. You'll soon receive a confirmation with all the details. We're looking forward to helping you realize your design vision. Have a splendid day. I will now end the call. Thank you for taking our time for this conversation. We hope to deliver the best
+",assistant-ended-call,https://storage.vapi.ai/17bba342-428e-4340-a130-bc69644466a1-1744094976370-73aa3c29-1d20-4469-bbe9-465f8d948585-mono.wav
+edfb5ec7-e84d-47af-870c-0e60d7679f99,dd105112-c88d-407c-8139-11f1883c98db,CA3804978c717364c85d5dad8b2c621c77,+919784306503,outboundPhoneCall,2025-04-08T06:52:23.241Z,2025-04-08T06:52:43.546Z,20305,0.0000,0.0000,0.0000,0.0000,0.0000,,"AI: Good day, Akinsha. I am Richard calling from Interior. I'm reaching out about your interest in our interior design services. Do you have a few minutes to discuss your project requirements?
+",customer-ended-call,https://storage.vapi.ai/edfb5ec7-e84d-47af-870c-0e60d7679f99-1744095166048-0238f534-e5e3-4e0c-a0db-0dd47481430c-mono.wav
+2e904299-c76c-48e4-a1ab-3bcde84777e9,dd105112-c88d-407c-8139-11f1883c98db,CAac54c936400720c6f07194552e3f813e,+919784306503,outboundPhoneCall,2025-04-08T06:54:12.614Z,2025-04-08T06:54:26.046Z,13432,0.0000,0.0000,0.0000,0.0000,0.0000,,"AI: Good day, I am Richard calling from Interior. I'm reaching out about your interest in our interior design services. Do you have a few minutes to discuss your project
+",customer-ended-call,https://storage.vapi.ai/2e904299-c76c-48e4-a1ab-3bcde84777e9-1744095268549-daa47259-5c9c-4d1a-af44-cdfbb8e01ec6-mono.wav
